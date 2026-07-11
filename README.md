@@ -1,4 +1,4 @@
-# 💾 Rickware Labs — Discord Asset Scraper V8
+# 💾 Rickware Labs — Discord Asset Scraper V8 - Coming Soon!
 
 **A browser-based Discord asset & data scraper with a floating, tabbed UI.**
 
